@@ -4,7 +4,7 @@
 O objetivo do presente projeto foi o desenvolvimento de um jogo da forca simples com uma espécie de tabuleiro definido e o conceito de Classes Python. O intuito principal do trabalho foi o aprimoramento e aprofundamento na prática de conceitos e técnicas da linguagem Python. Um conceito importante foi a utilização do pacote random e o aprofundamento na construção de funções. Dessa forma, o foco do projeto não foi a construção de um código otimizado, com menor tempo de execução ou simplificação, mas sim para o aperfeiçoamento e desenvolvimento de habilidades e competências referentes à linguagem Python.
 
 ## Ferramentas
-* Python 3.9.13
+* Python 3.10.13
 
 ## Desenvolvimento
 O primeiro passo foi importar a biblioteca <code>random</code> que foi utilizada para selecionar um item aleatório de uma lista que foi definida no decorrer do trabalho e criação de uma função resposável por limpar a tela do programa durante cada nova execução.
